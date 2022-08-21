@@ -1,0 +1,535 @@
+1
+Name: InsectWingbeat
+Shape: (50000, 22, 200)
+Possible pool_sizes: [2, 11]
+****************************
+2
+Name: ElectricDevices
+Shape: (16637, 96, 1)
+Possible pool_sizes: [2, 3, 4, 6, 8, 12, 16, 24, 32, 48]
+****************************
+3
+Name: PenDigits
+Shape: (10992, 8, 2)
+Possible pool_sizes: [2, 4]
+****************************
+4
+Name: FaceDetection
+Shape: (9414, 62, 144)
+Possible pool_sizes: [2, 31]
+****************************
+5
+Name: StarLightCurves
+Shape: (9236, 1024, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256, 512]
+****************************
+6
+Name: Wafer
+Shape: (7164, 152, 1)
+Possible pool_sizes: [2, 4, 8, 19, 38, 76]
+****************************
+7
+Name: ECG5000
+Shape: (5000, 140, 1)
+Possible pool_sizes: [2, 4, 5, 7, 10, 14, 20, 28, 35, 70]
+****************************
+8
+Name: TwoPatterns
+Shape: (5000, 128, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64]
+****************************
+9
+Name: LSST
+Shape: (4925, 36, 6)
+Possible pool_sizes: [2, 3, 4, 6, 9, 12, 18]
+****************************
+10
+Name: FordA
+Shape: (4921, 500, 1)
+Possible pool_sizes: [2, 4, 5, 10, 20, 25, 50, 100, 125, 250]
+****************************
+11
+Name: UWaveGestureLibraryX
+Shape: (4478, 315, 1)
+Possible pool_sizes: [3, 5, 7, 9, 15, 21, 35, 45, 63, 105]
+****************************
+12
+Name: UWaveGestureLibraryY
+Shape: (4478, 315, 1)
+Possible pool_sizes: [3, 5, 7, 9, 15, 21, 35, 45, 63, 105]
+****************************
+13
+Name: UWaveGestureLibraryZ
+Shape: (4478, 315, 1)
+Possible pool_sizes: [3, 5, 7, 9, 15, 21, 35, 45, 63, 105]
+****************************
+14
+Name: UWaveGestureLibraryAll
+Shape: (4478, 945, 1)
+Possible pool_sizes: [3, 5, 7, 9, 15, 21, 27, 35, 45, 63, 105, 135, 189, 315]
+****************************
+15
+Name: FordB
+Shape: (4446, 500, 1)
+Possible pool_sizes: [2, 4, 5, 10, 20, 25, 50, 100, 125, 250]
+****************************
+16
+Name: ChlorineConcentration
+Shape: (4307, 166, 1)
+Possible pool_sizes: [2, 83]
+****************************
+17
+Name: NonInvasiveFatalECGThorax1
+Shape: (3765, 750, 1)
+Possible pool_sizes: [2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 125, 150, 250, 375]
+****************************
+18
+Name: NonInvasiveFatalECGThorax2
+Shape: (3765, 750, 1)
+Possible pool_sizes: [2, 3, 5, 6, 10, 15, 25, 30, 50, 75, 125, 150, 250, 375]
+****************************
+19
+Name: Yoga
+Shape: (3300, 426, 1)
+Possible pool_sizes: [2, 3, 6, 71, 142, 213]
+****************************
+20
+Name: PhalangesOutlinesCorrect
+Shape: (2658, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+21
+Name: Mallat
+Shape: (2400, 1024, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256, 512]
+****************************
+22
+Name: FaceAll
+Shape: (2250, 131, 1)
+Possible pool_sizes: []
+****************************
+23
+Name: FacesUCR
+Shape: (2250, 131, 1)
+Possible pool_sizes: []
+****************************
+24
+Name: InsectWingbeatSound
+Shape: (2200, 256, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128]
+****************************
+25
+Name: Phoneme
+Shape: (2110, 1024, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256, 512]
+****************************
+26
+Name: Phoneme
+Shape: (2110, 1024, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256, 512]
+****************************
+27
+Name: CinCECGTorso
+Shape: (1420, 1639, 1)
+Possible pool_sizes: [11, 149]
+****************************
+28
+Name: HandOutlines
+Shape: (1370, 2709, 1)
+Possible pool_sizes: [3, 7, 9, 21, 43, 63, 129, 301, 387, 903]
+****************************
+29
+Name: MoteStrain
+Shape: (1272, 84, 1)
+Possible pool_sizes: [2, 3, 4, 6, 7, 12, 14, 21, 28, 42]
+****************************
+30
+Name: ShapesAll
+Shape: (1200, 512, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256]
+****************************
+31
+Name: TwoLeadECG
+Shape: (1162, 82, 1)
+Possible pool_sizes: [2, 41]
+****************************
+32
+Name: MedicalImages
+Shape: (1141, 99, 1)
+Possible pool_sizes: [3, 9, 11, 33]
+****************************
+33
+Name: SwedishLeaf
+Shape: (1125, 128, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64]
+****************************
+34
+Name: ItalyPowerDemand
+Shape: (1096, 24, 1)
+Possible pool_sizes: [2, 3, 4, 6, 8, 12]
+****************************
+35
+Name: Symbols
+Shape: (1020, 398, 1)
+Possible pool_sizes: [2, 199]
+****************************
+36
+Name: Handwriting
+Shape: (1000, 152, 3)
+Possible pool_sizes: [2, 4, 8, 19, 38, 76]
+****************************
+37
+Name: Strawberry
+Shape: (983, 235, 1)
+Possible pool_sizes: [5, 47]
+****************************
+38
+Name: SonyAIBORobotSurface2
+Shape: (980, 65, 1)
+Possible pool_sizes: [5, 13]
+****************************
+39
+Name: CBF
+Shape: (930, 128, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64]
+****************************
+40
+Name: FiftyWords
+Shape: (905, 270, 1)
+Possible pool_sizes: [2, 3, 5, 6, 9, 10, 15, 18, 27, 30, 45, 54, 90, 135]
+****************************
+41
+Name: WordSynonyms
+Shape: (905, 270, 1)
+Possible pool_sizes: [2, 3, 5, 6, 9, 10, 15, 18, 27, 30, 45, 54, 90, 135]
+****************************
+42
+Name: MiddlePhalanxOutlineCorrect
+Shape: (891, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+43
+Name: ProximalPhalanxOutlineCorrect
+Shape: (891, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+44
+Name: ECGFiveDays
+Shape: (884, 136, 1)
+Possible pool_sizes: [2, 4, 8, 17, 34, 68]
+****************************
+45
+Name: DistalPhalanxOutlineCorrect
+Shape: (876, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+46
+Name: Adiac
+Shape: (781, 176, 1)
+Possible pool_sizes: [2, 4, 8, 11, 16, 22, 44, 88]
+****************************
+47
+Name: CricketX
+Shape: (780, 300, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 10, 12, 15, 20, 25, 30, 50, 60, 75, 100, 150]
+****************************
+48
+Name: CricketY
+Shape: (780, 300, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 10, 12, 15, 20, 25, 30, 50, 60, 75, 100, 150]
+****************************
+49
+Name: CricketZ
+Shape: (780, 300, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 10, 12, 15, 20, 25, 30, 50, 60, 75, 100, 150]
+****************************
+50
+Name: LargeKitchenAppliances
+Shape: (750, 720, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 80, 90, 120, 144, 180, 240, 360]
+****************************
+51
+Name: RefrigerationDevices
+Shape: (750, 720, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 80, 90, 120, 144, 180, 240, 360]
+****************************
+52
+Name: ScreenType
+Shape: (750, 720, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 80, 90, 120, 144, 180, 240, 360]
+****************************
+53
+Name: SmallKitchenAppliances
+Shape: (750, 720, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 80, 90, 120, 144, 180, 240, 360]
+****************************
+54
+Name: InlineSkate
+Shape: (650, 1882, 1)
+Possible pool_sizes: [2, 941]
+****************************
+55
+Name: SonyAIBORobotSurface1
+Shape: (621, 70, 1)
+Possible pool_sizes: [2, 5, 7, 10, 14, 35]
+****************************
+56
+Name: ProximalPhalanxOutlineAgeGroup
+Shape: (605, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+57
+Name: ProximalPhalanxTW
+Shape: (605, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+58
+Name: SyntheticControl
+Shape: (600, 60, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 10, 12, 15, 20, 30]
+****************************
+59
+Name: ArticularyWordRecognition
+Shape: (575, 144, 9)
+Possible pool_sizes: [2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72]
+****************************
+60
+Name: SelfRegulationSCP1
+Shape: (561, 896, 6)
+Possible pool_sizes: [2, 4, 7, 8, 14, 16, 28, 32, 56, 64, 112, 128, 224, 448]
+****************************
+61
+Name: MiddlePhalanxOutlineAgeGroup
+Shape: (554, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+62
+Name: MiddlePhalanxTW
+Shape: (553, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+63
+Name: DistalPhalanxOutlineAgeGroup
+Shape: (539, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+64
+Name: DistalPhalanxTW
+Shape: (539, 80, 1)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 40]
+****************************
+65
+Name: EthanolConcentration
+Shape: (524, 1751, 3)
+Possible pool_sizes: [17, 103]
+****************************
+66
+Name: Computers
+Shape: (500, 720, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 16, 18, 20, 24, 30, 36, 40, 45, 48, 60, 72, 80, 90, 120, 144, 180, 240, 360]
+****************************
+67
+Name: Haptics
+Shape: (463, 1092, 1)
+Possible pool_sizes: [2, 3, 4, 6, 7, 12, 13, 14, 21, 26, 28, 39, 42, 52, 78, 84, 91, 156, 182, 273, 364, 546]
+****************************
+68
+Name: Earthquakes
+Shape: (461, 512, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256]
+****************************
+69
+Name: OSULeaf
+Shape: (442, 427, 1)
+Possible pool_sizes: [7, 61]
+****************************
+70
+Name: PEMS-SF
+Shape: (440, 144, 963)
+Possible pool_sizes: [2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72]
+****************************
+71
+Name: UWaveGestureLibrary
+Shape: (440, 315, 3)
+Possible pool_sizes: [3, 5, 7, 9, 15, 21, 35, 45, 63, 105]
+****************************
+72
+Name: FingerMovements
+Shape: (416, 50, 28)
+Possible pool_sizes: [2, 5, 10, 25]
+****************************
+73
+Name: Heartbeat
+Shape: (409, 405, 61)
+Possible pool_sizes: [3, 5, 9, 15, 27, 45, 81, 135]
+****************************
+74
+Name: SelfRegulationSCP2
+Shape: (380, 1152, 7)
+Possible pool_sizes: [2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 32, 36, 48, 64, 72, 96, 128, 144, 192, 288, 384, 576]
+****************************
+75
+Name: Libras
+Shape: (360, 45, 2)
+Possible pool_sizes: [3, 5, 9, 15]
+****************************
+76
+Name: NATOPS
+Shape: (360, 51, 24)
+Possible pool_sizes: [3, 17]
+****************************
+77
+Name: Fish
+Shape: (350, 463, 1)
+Possible pool_sizes: []
+****************************
+78
+Name: DiatomSizeReduction
+Shape: (322, 345, 1)
+Possible pool_sizes: [3, 5, 15, 23, 69, 115]
+****************************
+79
+Name: RacketSports
+Shape: (303, 30, 6)
+Possible pool_sizes: [2, 3, 5, 6, 10, 15]
+****************************
+80
+Name: Epilepsy
+Shape: (275, 206, 3)
+Possible pool_sizes: [2, 103]
+****************************
+81
+Name: ToeSegmentation1
+Shape: (268, 277, 1)
+Possible pool_sizes: []
+****************************
+82
+Name: Worms
+Shape: (258, 900, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 25, 30, 36, 45, 50, 60, 75, 90, 100, 150, 180, 225, 300, 450]
+****************************
+83
+Name: WormsTwoClass
+Shape: (258, 900, 1)
+Possible pool_sizes: [2, 3, 4, 5, 6, 9, 10, 12, 15, 18, 20, 25, 30, 36, 45, 50, 60, 75, 90, 100, 150, 180, 225, 300, 450]
+****************************
+84
+Name: HandMovementDirection
+Shape: (234, 400, 10)
+Possible pool_sizes: [2, 4, 5, 8, 10, 16, 20, 25, 40, 50, 80, 100, 200]
+****************************
+85
+Name: Ham
+Shape: (214, 431, 1)
+Possible pool_sizes: []
+****************************
+86
+Name: ArrowHead
+Shape: (211, 251, 1)
+Possible pool_sizes: []
+****************************
+87
+Name: Plane
+Shape: (210, 144, 1)
+Possible pool_sizes: [2, 3, 4, 6, 8, 9, 12, 16, 18, 24, 36, 48, 72]
+****************************
+88
+Name: ECG200
+Shape: (200, 96, 1)
+Possible pool_sizes: [2, 3, 4, 6, 8, 12, 16, 24, 32, 48]
+****************************
+89
+Name: GunPoint
+Shape: (200, 150, 1)
+Possible pool_sizes: [2, 3, 5, 6, 10, 15, 25, 30, 50, 75]
+****************************
+90
+Name: ShapeletSim
+Shape: (200, 500, 1)
+Possible pool_sizes: [2, 4, 5, 10, 20, 25, 50, 100, 125, 250]
+****************************
+91
+Name: Trace
+Shape: (200, 275, 1)
+Possible pool_sizes: [5, 11, 25, 55]
+****************************
+92
+Name: Cricket
+Shape: (180, 1197, 6)
+Possible pool_sizes: [3, 7, 9, 19, 21, 57, 63, 133, 171, 399]
+****************************
+93
+Name: ToeSegmentation2
+Shape: (166, 343, 1)
+Possible pool_sizes: [7, 49]
+****************************
+94
+Name: Lightning7
+Shape: (143, 319, 1)
+Possible pool_sizes: [11, 29]
+****************************
+95
+Name: Herring
+Shape: (128, 512, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256]
+****************************
+96
+Name: Lightning2
+Shape: (121, 637, 1)
+Possible pool_sizes: [7, 13, 49, 91]
+****************************
+97
+Name: Car
+Shape: (120, 577, 1)
+Possible pool_sizes: []
+****************************
+98
+Name: Meat
+Shape: (120, 448, 1)
+Possible pool_sizes: [2, 4, 7, 8, 14, 16, 28, 32, 56, 64, 112, 224]
+****************************
+99
+Name: FaceFour
+Shape: (112, 350, 1)
+Possible pool_sizes: [2, 5, 7, 10, 14, 25, 35, 50, 70, 175]
+****************************
+100
+Name: Wine
+Shape: (111, 234, 1)
+Possible pool_sizes: [2, 3, 6, 9, 13, 18, 26, 39, 78, 117]
+****************************
+101
+Name: BasicMotions
+Shape: (80, 100, 6)
+Possible pool_sizes: [2, 4, 5, 10, 20, 25, 50]
+****************************
+102
+Name: Beef
+Shape: (60, 470, 1)
+Possible pool_sizes: [2, 5, 10, 47, 94, 235]
+****************************
+103
+Name: OliveOil
+Shape: (60, 570, 1)
+Possible pool_sizes: [2, 3, 5, 6, 10, 15, 19, 30, 38, 57, 95, 114, 190, 285]
+****************************
+104
+Name: Coffee
+Shape: (56, 286, 1)
+Possible pool_sizes: [2, 11, 13, 22, 26, 143]
+****************************
+105
+Name: BeetleFly
+Shape: (40, 512, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256]
+****************************
+106
+Name: BirdChicken
+Shape: (40, 512, 1)
+Possible pool_sizes: [2, 4, 8, 16, 32, 64, 128, 256]
+****************************
+107
+Name: StandWalkJump
+Shape: (27, 2500, 4)
+Possible pool_sizes: [2, 4, 5, 10, 20, 25, 50, 100, 125, 250, 500, 625, 1250]
+****************************
