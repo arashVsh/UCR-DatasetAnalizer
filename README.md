@@ -4,9 +4,9 @@ I wrote this program to extract essential information about the datasets provide
 
 Currently, this basic information contains:
 
-1- each dataset's name
+1- Each dataset's name
 
-2- each dataset's shape
+2- Each dataset's shape
 
 3- Number of clusters
 
@@ -16,6 +16,7 @@ Currently, this basic information contains:
 
 (If we say in dataset X, each observation contains N time stamps, this list includes the divisors of N (except 1 and N itself). I needed this info in another project)
 
+
 When the loading process is finished, the loaded datasets will be sorted based on the number of observations they contain.
 
 The above information will be saved to a text file named "datasetInfo.txt"
@@ -24,4 +25,5 @@ I've added the results I got to this repository.
 
 Please, note that in my case, 7 out of 115 datasets could not be loaded due to the "Permission Exception."
 
-Arash Vashagh
+
+Arash Vashagh, Aug 2022
