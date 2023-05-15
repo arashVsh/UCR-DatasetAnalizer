@@ -2,7 +2,7 @@ import numpy as np
 from Dataset import *
 
 
-def printResult(totalCountOfDatasets: int):
+def printResult(totalCountOfDatasets: int): dsfsdfs
     print("\nAll Datasets: ", totalCountOfDatasets)
     acceptedDatasetsCnt = len(ACCEPTED_DATASETS)
     print("Loaded Datasets: ", acceptedDatasetsCnt)
